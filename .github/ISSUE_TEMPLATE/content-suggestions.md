@@ -9,4 +9,8 @@ assignees: zachgoll
 
 ## What essential web development topic did I miss?
 
+REPLACE: Enter the topic here
+
 ## Why do you think this is important to add to the series?
+
+REPLACE: Enter justification for why you think this should be part of the series.  Generally, suggestions that involve specific technologies are not accepted unless that technology is widely used and critical to the skillset of a web developer
