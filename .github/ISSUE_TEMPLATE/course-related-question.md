@@ -7,7 +7,7 @@ assignees: zachgoll
 
 ---
 
-_This is a Github issue template.  You will need to replace all lines marked with **REPLACE**.  While I will try to get to your question as quickly as possible, I am creating this series for free and therefore don't always have a ton of free time.  Thanks for your understanding!_
+_This is a Github issue template.  You will need to replace all lines marked with **REPLACE**.  If you want to see an example issue, [please refer to this one](https://github.com/zachgoll/fullstack-roadmap-series/issues/1).  While I will try to get to your question as quickly as possible, I am creating this series for free and therefore don't always have a ton of free time.  Thanks for your understanding!_
 
 ### What video or post URL is your question regarding?
 
