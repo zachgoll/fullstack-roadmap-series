@@ -1,13 +1,13 @@
 ---
 name: Course Related Question
 about: Template that helps me effectively answer your questions
-title: ''
-labels: ''
-assignees: ''
+title: Please provide a descriptive title of your question
+labels: question
+assignees: zachgoll
 
 ---
 
-This is a Github issue template.  You will need to replace all lines marked with **REPLACE**.
+_This is a Github issue template.  You will need to replace all lines marked with **REPLACE**.  While I will try to get to your question as quickly as possible, I am creating this series for free and therefore don't always have a ton of free time.  Thanks for your understanding!_
 
 ### What video or post URL is your question regarding?
 
