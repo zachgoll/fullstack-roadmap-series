@@ -6,9 +6,7 @@ All updates to this series will be made on [my Github repository](https://github
 
 If you don't have an account on [Github, create one now](https://github.com/join). You need to do this to follow along with this series, but this will also be the account that employers will look at when you are interviewing for jobs (so make sure your username is professional).
 
-Once you have created your account, go to [my series repository](https://github.com/zachgoll/fullstack-roadmap-series) and click the star so that you can find it easily later.
-
-![github star](/images/2021/Jan/github-star.JPG)
+Once you have created your account, click the star located in the top right corner of this page so you can find the repository easily in the future.
 
 ## Who is this for?
 
