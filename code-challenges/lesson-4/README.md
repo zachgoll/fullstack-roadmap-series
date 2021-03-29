@@ -1,0 +1,1 @@
+In this folder, you will find 5 challenges and their solutions.  Be sure to try them out first!

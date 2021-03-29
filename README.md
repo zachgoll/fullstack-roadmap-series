@@ -1,4 +1,6 @@
-Welcome to my free series on learning to code. Through this free series, you will go from zero experience to deploying your first fullstack web application. Along the way, I'll teach you the essential web development concepts needed for 2021 and beyond.
+Welcome to my free series on learning to code. Through this free series, you will go from zero experience to deploying your first fullstack web application (an E-Commerce app in React, ExpressJS, and PostgreSQL). Along the way, I'll teach you the essential web development concepts needed for 2021 and beyond.
+
+[See this post for a list of lessons](https://www.zachgollwitzer.com/posts/2021/fullstack-developer-series/fullstack-roadmap-toc/) and their links.
 
 ## Where I will be updating this course
 
