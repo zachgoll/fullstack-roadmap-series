@@ -6,8 +6,8 @@ The video that was posted on FCC was the first half of this broader series and a
 
 I've put this README together as your "one-stop" document to reference for everything course-related.  Below, you'll find:
 
-1. Provide links to all the challenges throughout the course
-2. Provide additional resources for you to research on your own
+1. Links to all the challenges throughout the course
+2. Additional resources for you to research on your own
 
 ## Reference
 
