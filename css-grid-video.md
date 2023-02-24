@@ -6,4 +6,4 @@ This page is a quick reference for you to find all the coding challenge solution
 
 ## Reference
 
-* 1:36:31 - ["Holy Grail Layout" CSS Grid challenge](https://github.com/zachgoll/fullstack-roadmap-series/tree/main/code-challenges/lesson-10)
+* 1:36:31 - ["Holy Grail Layout" CSS Grid challenge]([https://github.com/zachgoll/fullstack-roadmap-series/tree/main/code-challenges/lesson-10](https://codepen.io/zg_dev/pen/abpEzRd))
