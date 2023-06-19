@@ -5,7 +5,7 @@ There are two things wrong with this line
 2. We should be using `let` here because later in the code, we re-assign the value of the variable
 
 */
-const some Number = 20;
+const someNumber = 20;
 
 // 3. This line is missing a semi-colon at the end
 someNumber = 50
