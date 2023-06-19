@@ -3,7 +3,7 @@
 Why doesn't this code work?  Try to make it work and guess what the result will be (hint: this is a little bit of a review from last lesson).
 
 ```javascript
-const numberVariable = 0;
+let numberVariable = 0;
 
 numberVariable++;
 numberVariable++;
