@@ -30,6 +30,7 @@ Below are timestamps of the video and relevant resources / challenges / solution
 ## Next steps
 
 This foundational course is only the beginning.  You'll need to practice and learn tons more to really get good at this stuff.  Below are a few videos on my channel that you might want to check out next to continue your journey!
+##Thank you
 
 * [CSS Grid Course](https://www.youtube.com/watch?v=p03zmYL9Mtk) - CSS Grid is a powerful CSS layout system that pairs nicely with Flexbox to build beautiful webpages.  It is well worth the effort to learn!
 * [Bash Terminal Crash Course](https://www.youtube.com/watch?v=V8bHT4XTf40) - every programmer needs to be comfortable on the command line.  This video will get you there.
